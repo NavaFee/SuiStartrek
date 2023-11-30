@@ -10,7 +10,7 @@
 
 (首次如果没有，学习完毕钱包在填写)
 
-- Sui 账号地址: 0x052ac921b76fa7554ca62381c67a75e4676905ecdaaf145dd4a8228b4601fa85
+- Sui 账号地址: 0xd5fd5f911986bbd88a5da3a24835032da695ef06aca54c3d4f4724e0e6c644da
 
 计算机研究生在读，熟悉 Golang、Python、JavaScript、Solidity 等语言，熟悉 EVM 生态的开发，对 Web3 领域很感兴趣，借此机会想学习 Move 语言，希望之后可以参与到 Sui 生态的建设中。
 
